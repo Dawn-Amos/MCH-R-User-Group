@@ -2,5 +2,5 @@
 Educational R user group for maternal and child health epidemiologists and analysts. 
 
 Group leads: 
-- **Dawn Amos**, Idaho PRATS Manager
-- **Jason Geslois**, Kansas Senior MCH Epidemiologist
+- Dawn Amos, Idaho PRATS Manager
+- Jason Geslois, Kansas Senior MCH Epidemiologist
