@@ -7,4 +7,4 @@ Group leads:
 
 
 ### Upcoming Meetings & Topics 
-- October 21, 2026 - Topic: 
+- Next meeting: December, 2026
